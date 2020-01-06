@@ -1,7 +1,7 @@
 # SootingGame
 FPGA-project-team9
         
-**Input/Output unit:**
+**<h1>Input/Output unit:**
 
 操控按鈕( (s1,s2左右移動) 、 (s3射擊) 、 (s4開始) ) :
 ![image](https://github.com/yzxjyzxj52/SootingGame/blob/master/202016_200106_0004.jpg)
