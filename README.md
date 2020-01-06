@@ -1,7 +1,7 @@
 # SootingGame
 FPGA-project-team9
         
-**<h1>Input/Output unit:**
+**Input/Output unit:
 
 操控按鈕( (s1,s2左右移動) 、 (s3射擊) 、 (s4開始) ) :
 ![image](https://github.com/yzxjyzxj52/SootingGame/blob/master/202016_200106_0004.jpg)
@@ -14,3 +14,9 @@ FPGA-project-team9
 
 實際遊玩畫面:
 ![image](https://github.com/yzxjyzxj52/SootingGame/blob/master/202016_200106_0001.jpg)
+
+**功能說明:**
+  在限定時間內將敵人打完。
+  
+**程式模組說明:**
+
