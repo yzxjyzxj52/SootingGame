@@ -27,7 +27,8 @@ FPGA-project-team9
          input pause, //HIGH為暫停 LOW為繼續 接到8-bit DIPSW DSW8
          input [1:0] background, //以2進位表示0到3 來選擇1到4個關卡 接到8-bit DIPSW DSW5 DSW6
          input start, //選好關卡後按下開始遊戲 接到4-bit sw S2 
-         output  reg [2:0] c, //控制亮哪排8X8 LED 接到 8X8 LED 的S0~S2
+         output  reg [2:0] c, // 控制亮哪排8X8 LED 接到 8X8 LED 的S0~S2
+         
          output  [7:0] cr, //控制亮紅色 接到 8X8 LED 的CR1 ~ CR8
          output  [7:0] cg, //控制亮綠色 接到 8X8 LED 的CG1 ~ CG8
          output  [7:0] cb, //控制亮藍色 接到 8X8 LED 的CB1 ~ CB8
